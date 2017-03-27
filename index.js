@@ -7,7 +7,7 @@ const mainContainer = new RODIN.Sculpt();
 mainContainer.on(RODIN.CONST.READY, (evt) => {
   RODIN.Scene.add(evt.target);
 });
-
+121sa1a
 let draggedObjectOriginalPosition = new THREE.Vector3();
 let mouseOriginalPosition = new THREE.Vector3();
 let mouseGamepad = null;
